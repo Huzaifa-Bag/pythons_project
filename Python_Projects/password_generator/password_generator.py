@@ -19,7 +19,7 @@ if st.button("Generate Password 🔘"):
      password = generate_password(length,use_digits,use_special_characters)
      st.success(f"Generated Password: {password}")
 
-st.write("Developed by: Huzaifa Bag")
+st.write("Developed by: Huzaifa Bag")  
 st.write("Build with ❤️ by [Huzaifa](https://github.com/Huzaifa-Bag)")
 
 
